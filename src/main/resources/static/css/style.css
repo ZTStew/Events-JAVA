@@ -1,0 +1,39 @@
+.error {
+	color: red;
+}
+.leftSide {
+	vertical-align: top;
+	display: inline-block;
+	width: 48%;
+	border: 1px solid black;
+	height: 90vh;
+	padding: 10px;
+}
+.rightSide {
+	vertical-align: top;
+	display: inline-block;
+	width: 48%;
+	border: 1px solid black;
+	height: 90vh;
+	padding: 10px;
+}
+
+.msBox {
+	overflow: auto;
+}
+
+table {
+	border: 1px solid black;
+}
+
+th {
+	border: 1px solid black;
+}
+
+td {
+	border: 1px solid black;
+	padding: 4px;
+}
+form {
+	display:inline-block;
+}
